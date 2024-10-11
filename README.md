@@ -22,7 +22,7 @@ Welcome to Eddie Zuma World, a colorful and challenging ball-shooting game! In t
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/eddie-zuma-world.git
+   https://gitlink.org.cn/eddie2001/ZumaWorld.git
    ```
 
 2. Install dependencies:
